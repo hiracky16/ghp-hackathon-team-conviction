@@ -1,7 +1,7 @@
 import pandas as pd
 import collections
 import numpy as np
-DIR_NAMES = ['yaejima_ferry', 'tarama_kaiun']
+DIR_NAMES = ['yaejima_ferry', 'ogami_kaiun', 'tarama_kaiun']
 
 def read_data(dir, file):
   data = pd.read_csv(dir + '/' + file)
@@ -67,7 +67,8 @@ def main(dir):
 import json
 
 results = [main(dir) for dir in DIR_NAMES]
-result = np.array(results).flatten().tolist()
+
+result = sum(results, [])
 
 # with open(DIR_NAME + '/output.json', 'w') as f:
 #   content = json.dumps(result, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))

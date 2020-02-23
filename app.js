@@ -16,7 +16,7 @@ const DATA_URL = {
     'https://raw.githubusercontent.com/uber-common/deck.gl-data/master/examples/trips/buildings.json', // eslint-disable-line
   TRIPS:
     // 'https://raw.githubusercontent.com/uber-common/deck.gl-data/master/examples/trips/trips-v7.json'
-    './output.json' // eslint-disable-line
+    './data.json' // eslint-disable-line
 };
 
 const ambientLight = new AmbientLight({
@@ -48,9 +48,9 @@ const DEFAULT_THEME = {
 };
 
 const INITIAL_VIEW_STATE = {
-  longitude: 123.5,
-  latitude: 24.3139936,
-  zoom: 9,
+  longitude: 123.8,
+  latitude: 24.5139936,
+  zoom: 8,
   pitch: 45,
   bearing: 0
 };
@@ -113,7 +113,7 @@ export default class App extends Component {
         getTimestamps: d => d.timestamps,
         getColor: d => (d.vendor === 0 ? theme.trailColor0 : theme.trailColor1),
         opacity: 0.7,
-        widthMinPixels: 20,
+        widthMinPixels: 10,
         rounded: true,
         trailLength,
         currentTime: this.state.time,
