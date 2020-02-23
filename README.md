@@ -9,7 +9,11 @@
 そんな移動を最適化するために作るツール。  
 まずは島からの移動を可視化し、どこがボトルネックになっているか探る。
 
+## デモ
+
+https://hiracky16.github.io/ghp-hackathon-team-conviction/
+
 ## 使用データ
 
-GTFS・「標準的なバス情報フォーマット」オープンデータ一覧
+GTFS・「標準的なバス情報フォーマット」オープンデータ一覧  
 https://tshimada291.sakura.ne.jp/transport/gtfs-list.html
