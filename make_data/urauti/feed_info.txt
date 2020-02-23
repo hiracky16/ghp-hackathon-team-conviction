@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+（資）浦内川観光,http://www.urauchigawa.com,ja,20191001,20200331

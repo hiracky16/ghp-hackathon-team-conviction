@@ -1,0 +1,3 @@
+route_id,service_id,trip_id,direction_id,block_id,shape_id
+126,与那国出航,3b3b4c61cd096773f219c54ad6a182a0,,,shapes_126_1
+127,石垣出港,d602df7b4bcdae5684bc2dbbb770620e,,,shapes_127_1

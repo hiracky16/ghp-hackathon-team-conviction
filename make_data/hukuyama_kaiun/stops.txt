@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type
+S4448,oki_hyk_001,久部良港,,24.450734,122.942022,S4448,,
+S4449,oki_hyk_002,石垣港離島ターミナル,,24.335002,124.157234,S4449,,

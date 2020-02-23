@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type
+S4454,oki_fnk_001,船浮港,,24.336481,123.728821,S4454,,
+S4455,oki_fnk_002,白浜港,,24.359354,123.746653,S4455,,

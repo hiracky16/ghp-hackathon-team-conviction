@@ -1,0 +1,3 @@
+fare_id,route_id,origin_id,destination_id
+2468,132,S4454,S4455
+2469,133,S4455,S4454

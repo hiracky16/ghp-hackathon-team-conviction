@@ -99,13 +99,13 @@ export default class App extends Component {
 
     return [
       // This is only needed when using shadow effects
-      new PolygonLayer({
-        id: 'ground',
-        data: landCover,
-        getPolygon: f => f,
-        stroked: false,
-        getFillColor: [0, 0, 0, 0]
-      }),
+      // new PolygonLayer({
+      //   id: 'ground',
+      //   data: landCover,
+      //   getPolygon: f => f,
+      //   stroked: false,
+      //   getFillColor: [0, 0, 0, 0]
+      // }),
       new TripsLayer({
         id: 'trips',
         data: trips,

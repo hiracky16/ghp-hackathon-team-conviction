@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+5000020473600,伊是名村,https://vill.izena.okinawa.jp/,Asia/Tokyo,ja,0980-45-2001,

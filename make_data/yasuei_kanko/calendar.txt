@@ -1,0 +1,2 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+全日（2019年10月～2020年3月）,1,1,1,1,1,1,1,20191001,20200331

@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+全日,1,1,1,1,1,1,1,20190401,20190930
+特別便（7月20日~9月20日）,1,1,1,1,1,1,1,20190720,20190920
+全日運行,1,1,1,1,1,1,1,20191001,20200331

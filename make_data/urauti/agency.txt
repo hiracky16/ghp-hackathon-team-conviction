@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+1360003005018,（資）浦内川観光,http://www.urauchigawa.com,Asia/Tokyo,ja,0980-85-6154,

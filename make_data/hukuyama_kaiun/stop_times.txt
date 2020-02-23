@@ -1,0 +1,5 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type
+3b3b4c61cd096773f219c54ad6a182a0,10:00:00,10:00:00,S4448,1,,0,0
+3b3b4c61cd096773f219c54ad6a182a0,14:00:00,14:00:00,S4449,2,,0,0
+d602df7b4bcdae5684bc2dbbb770620e,10:00:00,10:00:00,S4449,1,,0,0
+d602df7b4bcdae5684bc2dbbb770620e,14:00:00,14:00:00,S4448,2,,0,0

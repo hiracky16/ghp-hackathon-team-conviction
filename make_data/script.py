@@ -1,7 +1,7 @@
 import pandas as pd
 import collections
 import numpy as np
-DIR_NAMES = ['yaejima_ferry', 'ogami_kaiun', 'tarama_kaiun']
+DIR_NAMES = ['yaejima_ferry', 'ogami_kaiun', 'tarama_kaiun', 'yasuei_kanko', 'hunauki_kaiun', 'hukuyama_kaiun', 'urauti', 'izena']
 
 def read_data(dir, file):
   data = pd.read_csv(dir + '/' + file)

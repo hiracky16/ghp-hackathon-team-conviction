@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+126,5360003005096,与那国島航路,与那国発-石垣行き,,4,,
+127,5360003005096,与那国島航路,石垣発-与那国行き,,4,,
