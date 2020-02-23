@@ -12,7 +12,7 @@ const CONFIG = {
   },
 
   output: {
-    path: path.join(__dirname, 'public'),
+    path: path.join(__dirname),
     filename: 'bundle.js'
   },
 
