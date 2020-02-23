@@ -1,0 +1,3 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+全日(夏季),1,1,1,1,1,1,1,20190701,20190930
+全日(冬季),1,1,1,1,1,1,1,20191001,20200331

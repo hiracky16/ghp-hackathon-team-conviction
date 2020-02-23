@@ -77,8 +77,8 @@ export default class App extends Component {
 
   _animate() {
     const {
-      loopLength = 1800, // unit corresponds to the timestamp in source data
-      animationSpeed = 30 // unit time per second
+      loopLength = 1200, // unit corresponds to the timestamp in source data
+      animationSpeed = 150 // unit time per second
     } = this.props;
     const timestamp = Date.now() / 1000;
     const loopTime = loopLength / animationSpeed;
@@ -93,7 +93,7 @@ export default class App extends Component {
     const {
       buildings = DATA_URL.BUILDINGS,
       trips = DATA_URL.TRIPS,
-      trailLength = 250,
+      trailLength = 100,
       theme = DEFAULT_THEME
     } = this.props;
 
@@ -112,8 +112,8 @@ export default class App extends Component {
         getPath: d => d.path,
         getTimestamps: d => d.timestamps,
         getColor: d => (d.vendor === 0 ? theme.trailColor0 : theme.trailColor1),
-        opacity: 0.8,
-        widthMinPixels: 10,
+        opacity: 0.7,
+        widthMinPixels: 20,
         rounded: true,
         trailLength,
         currentTime: this.state.time,
@@ -137,7 +137,7 @@ export default class App extends Component {
   render() {
     const {
       viewState,
-      mapStyle = 'mapbox://styles/mapbox/dark-v9',
+      mapStyle = 'mapbox://styles/hiracky16/ck6ynhdn014791in75kiebgvr',
       theme = DEFAULT_THEME
     } = this.props;
 

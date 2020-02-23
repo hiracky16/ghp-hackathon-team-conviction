@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+349,2360003005256,多良間航路,平良港発-普天間港行き,,4,FFFFFF,000000
+350,2360003005256,多良間航路,普天間港発-平良港行き,,4,FFFFFF,000000

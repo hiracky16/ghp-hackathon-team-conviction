@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+128,6360003005178,大神島航路,大神漁港発-宮古島（島尻漁港）行き,,4,,
+129,6360003005178,大神島航路,宮古島（島尻漁港）発-大神漁港行き,,4,,

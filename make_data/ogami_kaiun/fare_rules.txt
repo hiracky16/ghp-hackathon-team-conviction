@@ -1,0 +1,3 @@
+fare_id,route_id,origin_id,destination_id
+2470,128,S4450,S4451
+2471,129,S4451,S4450

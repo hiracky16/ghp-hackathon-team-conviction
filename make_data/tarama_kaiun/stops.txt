@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type
+S4452,oki_trk_001,多良間海運乗船券売場,,24.808520,125.278047,S4452,,
+S5074,oki_trk_003,普天間港,,24.644527,124.720982,S5074,,
